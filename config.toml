@@ -68,7 +68,7 @@ publishDir = "../iwensu0313.github.io"
 			
 		[[params.portfolio.gallery]]
 		  image = "shiny-mar.jpg"
-		  thumb = "shiny-mar.jpg"
+		  thumb = "thumbs/shiny-mar.jpg"
 		  title = "Explore Mariculture Data"
 		  description = "A [Data Exploration dashboard](https://iwensu.shinyapps.io/global-dashboard/) I created for the Global Ocean Health Index Project"
 
