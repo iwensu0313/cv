@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Iwen Su</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Iwen Su</description>
+    <title>Data on Iwen Su</title>
+    <link>/categories/data/</link>
+    <description>Recent content in Data on Iwen Su</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Aug 2018 11:41:14 -0500</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/data/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

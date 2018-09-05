@@ -7,7 +7,6 @@ disqusShortname = "spf13"
 googleAnalytics = ""
 # Define how many posts should appear on a site
 paginate = 10
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 publishDir = "../iwensu0313.github.io"
 
 [params]
@@ -65,10 +64,17 @@ publishDir = "../iwensu0313.github.io"
 			thumb = "thumbs/gp.jpg"
 			title = "Seaweed Feasibility."
 			description = "At the Bren School, I co-proposed and worked on a project looking into the [feasibility of seaweed aquaculture](https://sbmussels.weebly.com) in southern California."
+			
+			
+		[[params.portfolio.gallery]]
+		  image = "shiny-mar.jpg"
+		  thumb = "shiny-mar.jpg"
+		  title = "Explore Mariculture Data"
+		  description = "A [Data Exploration dashboard](https://iwensu.shinyapps.io/global-dashboard/) I created for the Global Ocean Health Index Project"
 
 	
 	[params.recentposts]
-		hide  = false
+		hide  = true
 		title = "Recent blog posts"
 
 	[params.contact]
@@ -103,9 +109,9 @@ publishDir = "../iwensu0313.github.io"
 
 # Menu links that appear on the left sidebar
 [[menu.main]]
-	name = "Home"
-	url  = "/"
-	weight = 10
+#	name = "Home"
+#	url  = "/"
+#	weight = 10
 
 [[menu.main]]
 #	name = "Blog"
