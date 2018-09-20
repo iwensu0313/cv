@@ -11,6 +11,8 @@ Steps to updating your website
 
 4. Once ready, run 'build_site()' - relevants files should be copied to the iwensu0313.github.io repository.
 
-5. Set wd to locatin of iwensu0313.github.io repository on local computer 'setwd("C:/Iwen/github/iwensu0313.github.io")'. Do this in console. OR go to iwensu0313.github.io project.
+5. Commit, pull, and push changes in blogdown_source repo.
 
-6. Then commit, pull, and push changes in both blogdown_source and iwensu0313.github.io repos to GitHub in terminal (git add -A, git commit -m "some message", git pull, git push)
+6. Set wd to location of iwensu0313.github.io repository 'setwd("C:/Iwen/github/iwensu0313.github.io")'. Do this in console. OR go to iwensu0313.github.io project if you're in the blogdown_source project.
+
+6. Then commit, pull, and push changes to iwensu0313.github.io repo to GitHub. Can also use terminal (git add -A, git commit -m "some message", git pull, git push)
