@@ -77,7 +77,7 @@ publishDir = "../iwensu0313.github.io"
 		  image = "aq-event.jpg"
 		  thumb = "thumbs/aq-event.jpg"
 		  title = "Conversation About Aquaculture."
-		  description = "Student-organized event at the Bren School that brought together academic and industry experts in aquaculture."
+		  description = "[Student-organized event](http://conversationaboutaquaculture.weebly.com) at the Bren School that brought together academic and industry experts in aquaculture."
 
 	
 	[params.recentposts]
