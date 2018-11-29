@@ -81,8 +81,8 @@ publishDir = "../iwensu0313.github.io"
 
 	
 	[params.recentposts]
-		hide  = true
-		title = "Recent blog posts"
+		hide  = false
+		title = "Presentations & Workshops"
 
 	[params.contact]
 		hide  = false

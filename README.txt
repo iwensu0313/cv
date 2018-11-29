@@ -1,6 +1,6 @@
 Steps to updating your website
 
-1. Set working directory the location of blogdown_source repository in C:/Iwen/github by opening up `blogdown_source` project in RStudio.
+1. Set working directory the location of blogdown_source repository in C:/Iwen/github by opening up `blogdown_source` project in RStudio. Run 'library(blogdown)'.
 
 2. Make your updates in the `blogdown_source` repo: 
 - Navigate to files locally
@@ -8,7 +8,7 @@ Steps to updating your website
 - Add images to 'static/images'. Edit them by navigating to files locally
 - Add blog posts to 'content/post' (new_post(title = 'hello-world.Rmd'))
 
-3. Run 'library(blogdown)' and 'serve_site()` to see test changes.
+3. Run 'serve_site()` to see test changes.
 
 4. Once ready, run 'build_site()' - relevants files should be copied to the iwensu0313.github.io repository.
 
