@@ -54,17 +54,22 @@ publishDir = "../iwensu0313.github.io"
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
-			image = "ohi.jpg"
-			thumb = "thumbs/ohi.jpg"
-			title = "Ocean Health Index."
-			description = "Calculated status of fisheries, mariculture, MPA spatial coverage, and social progress for the 2018 [OHI Global Assessment](https://ohi-science.github.io/globalfellows) at NCEAS."
-
+		  image = "tnc.jpg"
+			thumb = "thumbs/tnc.jpg"
+			title = "SeaSketch for CGC."
+			description = "Streamlined marine spatial planning for the [CA Groundfish Collective](http://www.cagroundfish.org/) and TNC by implementing [SeaSketch](http://http://www.seasketch.org) as a cloud-based, planning tool."
+		
 		[[params.portfolio.gallery]]
 			image = "gp.jpg"
 			thumb = "thumbs/gp.jpg"
 			title = "Seaweed Feasibility."
 			description = "At the Bren School, I co-proposed and worked on a project looking into the [feasibility of seaweed aquaculture](https://sbmussels.weebly.com) in southern California."
 			
+		[[params.portfolio.gallery]]
+			image = "ohi.jpg"
+			thumb = "thumbs/ohi.jpg"
+			title = "Ocean Health Index."
+			description = "Calculated status of fisheries, mariculture, MPA spatial coverage, and social progress for the 2018 [OHI Global Assessment](https://ohi-science.github.io/globalfellows) at NCEAS."
 			
 		[[params.portfolio.gallery]]
 		  image = "shiny-mar.jpg"
