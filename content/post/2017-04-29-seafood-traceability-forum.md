@@ -9,6 +9,10 @@ tags: []
 
 **Invited workshop participant, LMU-UCLA Seafood Traceability Forum, Loyola Marymount University, Los Angeles, April 2017.**
 
+Participated in forum breakout sessions to discuss various seafood traceability issues.
+
+***
+
 WORKSHOP OVERVIEW:
 
 _Developed in collaboration with scientists from LMU, UCLA, and various regulatory agencies, this forum will be an open discussion on the current state of seafood traceability in the

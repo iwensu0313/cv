@@ -30,7 +30,7 @@ publishDir = "../iwensu0313.github.io"
 		# Replace the avatar with a picture of your own under static/images
 		avatar = "avatar.jpg"
 		# Use Markdown to format the string. This works nearly all over the theme
-		bio = "**Iwen Su, MSc** <br> scuba diver and data scientist, living in San Diego"
+		bio = "**I'm Iwen**, <br> a scuba diver and data scientist, living in San Diego"
 		# The icons will be shown if you enter your username
 		twitter = "iwen_su"
 		github = "iwensu0313"
