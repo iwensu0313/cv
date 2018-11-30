@@ -24,4 +24,4 @@ onshore and offshore systems has grown. However, the technical and economic feas
 _We identified four promising species in the Southern California Bight and the appropriate methods for cultivation. We then developed a bio-economic model to highlight the key factors that determine the economic feasibility of establishing a seaweed aquaculture industry in the region. Finally, we
 undertook preliminary economic assessments of seaweed integration into an existing local mussel farm. The results from this project can provide stakeholders and policymakers a blueprint for prioritizing next steps in expanding sustainable aquaculture in Southern California._
 
-Download <a href="files/MusselFlexersCurrent.pptx" download>presentation</a>.
+View [presentation here](https://docs.google.com/presentation/d/e/2PACX-1vSt9_94kgbaUbbv5cznPjI7k4AcZA9E096gQMKhQGJq_G590LgnwJ6Vp0d1cPqba1KBp3Lee1lExeqZ/pub?start=false&loop=false&delayms=5000).

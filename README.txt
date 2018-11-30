@@ -6,7 +6,8 @@ Steps to updating your website
 - Navigate to files locally
 - Add additional projects to 'config.toml'.
 - Add images to 'static/images'. Edit them by navigating to files locally
-- Add blog posts to 'content/post' (new_post(title = 'hello-world.Rmd'))
+- Add new presentations or workshops to 'content/post' (new_post(title = 'seaweed-aquaculture'))
+- For presentations or workshops with download files, may need to manually add in iwensu0313.github.io repo `post` folder (see seaweed aquaculture presentation for an example)
 - Still figuring out where to customize css. Copied 'main.css' into 'static/css'
 
 3. Run 'serve_site()` to see test changes.

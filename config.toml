@@ -70,7 +70,7 @@ publishDir = "../iwensu0313.github.io"
 		  image = "shiny-mar.jpg"
 		  thumb = "thumbs/shiny-mar.jpg"
 		  title = "Explore Mariculture Data."
-		  description = "A [Data Exploration dashboard](https://iwensu.shinyapps.io/global-dashboard/) I created for the Global Ocean Health Index Project provides a quick glance into the data behind calculating OHI global scores."
+		  description = "The [Data Exploration Dashboard](https://iwensu.shinyapps.io/global-dashboard/) I created for the Global Ocean Health Index Project provides a quick glance into the data behind calculating OHI global scores. Read about it in my [featured article](http://ohi-science.org/news/fellowship-expanding-mariculture)!"
 
 	
 	[params.recentposts]
