@@ -7,6 +7,7 @@ Steps to updating your website
 - Add additional projects to 'config.toml'.
 - Add images to 'static/images'. Edit them by navigating to files locally
 - Add blog posts to 'content/post' (new_post(title = 'hello-world.Rmd'))
+- Still figuring out where to customize css. Copied 'main.css' into 'static/css'
 
 3. Run 'serve_site()` to see test changes.
 
