@@ -69,14 +69,21 @@ publishDir = "../iwensu0313.github.io"
 			image = "ohi.jpg"
 			thumb = "thumbs/ohi.jpg"
 			title = "Ocean Health Index."
-			description = "Calculated status of fisheries, mariculture, MPA spatial coverage, and social progress for the 2018 [OHI Global Assessment](https://ohi-science.github.io/globalfellows) at NCEAS."
+			description = "Calculated status of fisheries, mariculture, MPAs, and social progress for the 2018 [OHI Global Assessment](https://ohi-science.github.io/globalfellows) at NCEAS. Synthesized large datasets and communicated research."
 			
 		[[params.portfolio.gallery]]
 		  image = "shiny-mar.jpg"
 		  thumb = "thumbs/shiny-mar.jpg"
 		  title = "Explore Mariculture Data."
-		  description = "The [Data Exploration Dashboard](https://iwensu.shinyapps.io/global-dashboard/) I created for the Global Ocean Health Index Project provides a quick glance into the data behind calculating OHI global scores. Read about it in my [featured article](http://ohi-science.org/news/fellowship-expanding-mariculture)!"
+		  description = "The [Data Exploration Dashboard](https://iwensu.shinyapps.io/global-dashboard/) I created for the OHI Project provides a quick glance into the data behind calculating global scores. Read about it in my [featured article](http://ohi-science.org/news/fellowship-expanding-mariculture)!"
+		  
+		[[params.portfolio.gallery]]
+		  image = "aqculture-data.jpg"
+		  thumb = "thumbs/aqculture-data.jpg"
+		  title = "California Aquaculture."
+		  description = "Created a [US Aquaculture Dashboard](https://iwensu.shinyapps.io/us-aqculture-data) for synthesizing and visualizing existing data from a variety of sources, including US Depts of Agriculture and NOAA Fisheries Statistics."
 
+	
 	
 	[params.recentposts]
 		hide  = false
