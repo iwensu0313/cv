@@ -81,7 +81,7 @@ publishDir = "../iwensu0313.github.io"
 		  image = "aqculture-data.jpg"
 		  thumb = "thumbs/aqculture-data.jpg"
 		  title = "California Aquaculture."
-		  description = "Created a [US Aquaculture Dashboard](https://iwensu.shinyapps.io/us-aqculture-data) for synthesizing and visualizing existing data from a variety of sources, including US Depts of Agriculture and NOAA Fisheries Statistics."
+		  description = "Created a [US Aquaculture Dashboard](https://iwensu.shinyapps.io/us-aqculture-data) for synthesizing and visualizing existing data from a variety of sources, including US Department of Agriculture and NOAA Fisheries Statistics."
 
 	
 	
