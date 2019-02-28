@@ -17,9 +17,10 @@
 		vertical-align: baseline;
 	}
 
-	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
+	
 
 	body {
 		line-height: 1;
@@ -53,7 +54,7 @@
 		-moz-box-sizing: border-box;
 		-webkit-box-sizing: border-box;
 		box-sizing: border-box;
-	}
+	} 
 
 /* Containers */
 
@@ -212,7 +213,9 @@
 			width: 960px;
 		}
 
-	}
+	} 
+	
+
 
 /* Grid */
 
@@ -1572,6 +1575,8 @@
 		line-height: 1.75em;
 	}
 
+
+/* Hyperlinks */
 	a {
 		-moz-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		-webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
@@ -1586,7 +1591,7 @@
 			border-bottom-color: transparent;
 			color: #49bf9d !important;
 			text-decoration: none;
-		}
+		} 
 
 	strong, b {
 		color: #787878;
@@ -1707,7 +1712,7 @@
 		text-align: right;
 	}
 
-/* Section/Article */
+/* Section-Article */
 
 	section.special, article.special {
 		text-align: center;
@@ -1978,7 +1983,7 @@
 			display: none;
 		}
 
-/* Image */
+/* Thumbnail Image */
 
 	.image {
 		border-radius: 0.35em;
@@ -1987,12 +1992,13 @@
 		position: relative;
 	}
 
+/* Adjusts what you see on thumbnail hover */
 		.image:before {
 			-moz-transition: opacity 0.2s ease-in-out;
 			-webkit-transition: opacity 0.2s ease-in-out;
 			-ms-transition: opacity 0.2s ease-in-out;
 			transition: opacity 0.2s ease-in-out;
-			background: url("images/overlay.png");
+			background: url("images/overlay.png"); 
 			border-radius: 0.35em;
 			content: '';
 			display: block;
@@ -2030,7 +2036,9 @@
 				text-decoration: none;
 				top: 50%;
 				white-space: nowrap;
-			}
+			} 
+
+			
 
 			.image.thumb:hover:after {
 				opacity: 1.0;
@@ -2041,10 +2049,12 @@
 				opacity: 1.0;
 			}
 
+
+
 		.image img {
 			border-radius: 0.35em;
 			display: block;
-		}
+		} 
 
 		.image.left {
 			float: left;
@@ -2076,6 +2086,8 @@
 				width: 100%;
 			}
 
+
+/* Avatar Image */
 		.image.avatar {
 			border-radius: 100%;
 		}
@@ -2437,15 +2449,20 @@
 			cursor: default;
 		}
 
+
+
+
 /* Work Item */
 
 	.work-item {
 		margin: 0 0 2em 0;
 	}
 
+
 		.work-item .image {
 			margin: 0 0 1.5em 0;
 		}
+		
 
 		.work-item h3 {
 			font-size: 1em;
@@ -2456,7 +2473,7 @@
 			font-size: 0.8em;
 			line-height: 1.5em;
 			margin: 0;
-		}
+		} 
 
 /* Header */
 
@@ -2563,9 +2580,10 @@
 				padding-top: 0;
 			}
 
-/* Poptrox */
 
-	@-moz-keyframes spin {
+/* Poptrox-Lightboxes? */
+
+/*	@-moz-keyframes spin {
 		0% {
 			-moz-transform: rotate(0deg);
 			-webkit-transform: rotate(0deg);
@@ -2581,7 +2599,7 @@
 		}
 	}
 
-	@-webkit-keyframes spin {
+/*	@-webkit-keyframes spin {
 		0% {
 			-moz-transform: rotate(0deg);
 			-webkit-transform: rotate(0deg);
@@ -2597,7 +2615,7 @@
 		}
 	}
 
-	@-ms-keyframes spin {
+/*	@-ms-keyframes spin {
 		0% {
 			-moz-transform: rotate(0deg);
 			-webkit-transform: rotate(0deg);
@@ -2613,7 +2631,7 @@
 		}
 	}
 
-	@keyframes spin {
+/*	@keyframes spin {
 		0% {
 			-moz-transform: rotate(0deg);
 			-webkit-transform: rotate(0deg);
@@ -2807,27 +2825,34 @@
 			.poptrox-popup:hover .closer:hover {
 				opacity: 1.0;
 			}
+*/
+
 
 /* Touch */
 
-	body.is-touch .image.thumb:before {
+/*	body.is-touch .image.thumb:before {
 		opacity: 0.5 !important;
-	}
+	} 
 
 	body.is-touch .image.thumb:after {
 		display: none !important;
-	}
+	} 
 
 	body.is-touch #header {
 		background-attachment: scroll;
 		background-size: auto, cover;
-	}
+	} 
 
 	body.is-touch .poptrox-popup .nav-next,
 	body.is-touch .poptrox-popup .nav-previous,
 	body.is-touch .poptrox-popup .closer {
 		opacity: 1.0 !important;
-	}
+	} 
+*/
+
+
+
+/* Media Queries allows layout to change based on Queried Width of Device */
 
 /* XLarge */
 
@@ -2839,7 +2864,7 @@
 				font-size: 12pt;
 			}
 
-	}
+	} 
 
 /* Large */
 
@@ -3032,9 +3057,9 @@
 					padding: 2.25em 0 0 0;
 				}
 
-		/* Poptrox */
+		/* Poptrox-Lightboxes? */
 
-			.poptrox-popup {
+/*			.poptrox-popup {
 				border-radius: 0;
 			}
 
@@ -3042,6 +3067,7 @@
 				.poptrox-popup .nav-previous:before {
 					margin-top: -1em;
 				}
+*/
 
 	}
 
