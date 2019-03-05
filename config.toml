@@ -54,38 +54,39 @@ publishDir = "../iwensu0313.github.io"
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
+		  link = "https://sbcosap.org"
+		  thumb = "thumbs/cosap.jpg"
+		  title = "Web Design & Content Editor."
+		  description = "Finalized content, improved layout and organization for [Offshore Mussel Farming](https://www.sbcosap.org/mussel-farming) pages, added relevant [resources](https://www.sbcosap.org/resources), and created subscriber functionality for [COSAP website](https://sbcosap.org)."
+		
+		[[params.portfolio.gallery]]
 		  link = "https://iwensu.shinyapps.io/ca-aquaculture"
-		  #image = "aqculture-data.jpg"
 		  thumb = "thumbs/aqculture-data.jpg"
-		  title = "California Aquaculture."
+		  title = "Interactive Data Dashboard."
 		  description = "Created a [CA Aquaculture Dashboard](https://iwensu.shinyapps.io/ca-aquaculture) for synthesizing and visualizing existing data from a variety of sources, including US Department of Agriculture and NOAA."
 		
 		[[params.portfolio.gallery]]
 		  link = "https://iwensu.shinyapps.io/global-dashboard/"
-		  #image = "shiny-mar.jpg"
 		  thumb = "thumbs/shiny-mar.jpg"
-		  title = "Explore Mariculture Data."
+		  title = "Interactive Data Dashboard."
 		  description = "The [Data Exploration Dashboard](https://iwensu.shinyapps.io/global-dashboard/) I created for the OHI Project provides a quick glance into the data behind calculating global scores. Read about it in my [featured article](http://ohi-science.org/news/fellowship-expanding-mariculture)!"
 		  
 		[[params.portfolio.gallery]]
 		  link = "https://ohi-science.github.io/globalfellows"
-			#image = "ohi.jpg"
 			thumb = "thumbs/ohi.jpg"
-			title = "Ocean Health Index."
+			title = "Ocean Health Research."
 			description = "Calculated status of fisheries, mariculture, MPAs, and social progress for the 2018 [OHI Global Assessment](https://ohi-science.github.io/globalfellows) at NCEAS. Synthesized large datasets, communicated research."
 
 		[[params.portfolio.gallery]]
 			link = "https://sbmussels.weebly.com"
-			#image = "gp.jpg"
 			thumb = "thumbs/gp.jpg"
-			title = "Seaweed Feasibility."
-			description = "Investigated the [feasibility of seaweed aquaculture](https://sbmussels.weebly.com) in southern California for Santa Barbara Mariculture and the Sustainable Aquaculture Research Center."
+			title = "Client-based Master's Thesis."
+			description = "Investigated the [feasibility of seaweed aquaculture](https://sbmussels.weebly.com) in southern California for [Santa Barbara Mariculture](http://www.sbmariculture.com/) and the [Sustainable Aquaculture Research Center](http://sarc.bren.ucsb.edu/)."
 
 		[[params.portfolio.gallery]]
 		  link = "http://www.cagroundfish.org/"
-		  #image = "tnc.jpg"
 			thumb = "thumbs/tnc.jpg"
-			title = "SeaSketch for CGC."
+			title = "Spatial Planning."
 			description = "Streamlined marine spatial planning for the [CA Groundfish Collective](http://www.cagroundfish.org/) and TNC by implementing [SeaSketch](http://http://www.seasketch.org) as a cloud-based, planning tool."
 
 	
