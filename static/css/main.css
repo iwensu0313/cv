@@ -3177,6 +3177,11 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
  * 	CUSTOM CSS
  */
 
+ .presentations li {
+   list-style-type: circle;
+	 font-size: 17px;
+	 line-height: 36px;
+ }
  .recent-posts li {
    list-style-type: circle;
 	 font-size: 17px;

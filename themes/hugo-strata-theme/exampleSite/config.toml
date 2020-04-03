@@ -95,6 +95,10 @@ paginate = 10
 			title = "Lorem ipsum dolor."
 			description = "Lorem ipsum dolor sit amet."
 
+	[params.presentations]
+		hide  = false
+		title = "Presentations"
+
 	[params.recentposts]
 		hide  = false
 		title = "Recent blog posts"

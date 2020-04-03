@@ -44,7 +44,7 @@ publishDir = "../iwensu0313.github.io"
 	[params.about]
 		hide  = false
 		title = "About"
-		content = "I graduated from the Bren School of Environmental Science & Management in June 2018 with a specialization in Coastal and Marine Management. Over the last two years, I've worked on various data science and client-based projects in fisheries, aquaculture, and ocean health. Currently working on a dashboard to visualize CA aquaculture data. Feel free to reach out with any questions, my contact information is at the bottom of this page!"
+		content = "I am currently working in the [ocean data analytics](https://scootscience.com) space for marine aquaculture. Over the last few years, I've worked on various data science and client-based projects in fisheries, aquaculture, and ocean health. My background is in coastal & marine science and management."
 
 
 	[params.portfolio]
@@ -88,9 +88,12 @@ publishDir = "../iwensu0313.github.io"
 			thumb = "thumbs/tnc.jpg"
 			title = "Spatial Planning."
 			description = "Streamlined marine spatial planning for the [CA Groundfish Collective](http://www.cagroundfish.org/) and TNC by implementing [SeaSketch](http://http://www.seasketch.org) as a cloud-based, planning tool."
-
 	
 	[params.recentposts]
+		hide  = true
+		title = "Recent Posts"
+		
+	[params.presentations]
 		hide  = false
 		title = "Presentations & Workshops"
 

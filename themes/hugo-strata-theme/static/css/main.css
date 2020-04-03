@@ -3151,6 +3151,11 @@
  * 	CUSTOM CSS
  */
 
+ .presentations li {
+	 font-size: 20px;
+	 line-height: 36px;
+ }
+
  .recent-posts li {
 	 font-size: 20px;
 	 line-height: 36px;
