@@ -1,20 +1,63 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://iwensu0313.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <loc>https://iwensu0313.github.io/about/</loc>
+    <lastmod>2023-11-13T21:05:33+05:30</lastmod>
+  </url><url>
     <loc>https://iwensu0313.github.io/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <lastmod>2023-11-13T21:05:33+05:30</lastmod>
+  </url><url>
+    <loc>https://iwensu0313.github.io/contact/</loc>
+    <lastmod>2023-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iwensu0313.github.io/portfolio/scoot-adb-forum/</loc>
+    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iwensu0313.github.io/portfolio/</loc>
+    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iwensu0313.github.io/portfolio/scoot-seafoodsource/</loc>
+    <lastmod>2022-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iwensu0313.github.io/portfolio/fishful_future/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iwensu0313.github.io/portfolio/cosap/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iwensu0313.github.io/portfolio/ca-aqua-dash/</loc>
+    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iwensu0313.github.io/portfolio/ohi-mariculture-blog/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iwensu0313.github.io/portfolio/ohi-fellows-roundtable/</loc>
+    <lastmod>2018-09-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iwensu0313.github.io/portfolio/ohi-global/</loc>
+    <lastmod>2018-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iwensu0313.github.io/portfolio/ohi-dash/</loc>
+    <lastmod>2018-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iwensu0313.github.io/portfolio/a-conversation-about-aquaculture/</loc>
+    <lastmod>2018-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iwensu0313.github.io/portfolio/seaweed-aquaculture-in-southern-california/</loc>
+    <lastmod>2018-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iwensu0313.github.io/portfolio/tnc-cgc/</loc>
+    <lastmod>2017-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iwensu0313.github.io/portfolio/vse-mussel-farming-lease/</loc>
+    <lastmod>2017-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iwensu0313.github.io/portfolio/seafood-traceability-forum/</loc>
+    <lastmod>2017-04-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://iwensu0313.github.io/categories/</loc>
+  </url><url>
     <loc>https://iwensu0313.github.io/tags/</loc>
-    <priority>0</priority>
   </url>
-  
 </urlset>

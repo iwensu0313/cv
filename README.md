@@ -4,15 +4,16 @@
 
 2. Make your updates in the `blogdown_source` repo: 
 * Navigate to files locally
-* Add additional projects to 'config.toml'.
+* Add additional "Featured Work" projects to 'config.toml'.
 * Add images to 'static/images'. Edit them by navigating to files locally
-* Add new presentations or workshops to 'content/post' (new_post(title = 'seaweed-aquaculture'))
+* Add new presentations or workshops to 'content/present' by running `new_post(title = 'seaweed-aquaculture', subdir=getOption('blogdown.subdir','present'))`
 * For presentations or workshops with download files, may need to manually add in iwensu0313.github.io repo `post` folder (see seaweed aquaculture presentation for an example)
+* Add blog posts to 'content/post' by running by running `new_post(title = 'blog-post-1', subdir=getOption('blogdown.subdir','post'))`
 * Still figuring out where to customize css. Copied 'main.css' into 'static/css'
 
 3. Run 'serve_site()` to see test changes.
 
-4. Once ready, run 'build_site()' - relevants files should be copied to the iwensu0313.github.io repository.
+4. Once ready, run 'build_site()' - relevant files should be copied to the iwensu0313.github.io repository.
 
 5. Commit, pull, and push changes in blogdown_source repo.
 
