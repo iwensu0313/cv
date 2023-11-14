@@ -19,4 +19,4 @@
 
 6. Set wd to location of iwensu0313.github.io repository 'setwd("C:/Iwen/github/iwensu0313.github.io")'. Do this in console. OR go to iwensu0313.github.io project if you're in the blogdown_source project.
 
-7 Then commit, pull, and push changes to iwensu0313.github.io repo to GitHub. Can also use terminal (git add -A, git commit -m "some message", git pull, git push)
+7. Then commit, pull, and push changes to iwensu0313.github.io repo to GitHub. Can also use terminal (git add -A, git commit -m "some message", git pull, git push)
