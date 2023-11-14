@@ -13,7 +13,7 @@ googleAnalytics = ""
 	style = "sea"
 	description = "Ocean enthusiast &amp; data scientist"
   sidebarAbout = [
-    "Sustainable seafood<br>Data & tech<br>Ecological monitoring"
+    "Sustainable seafood<br>Data & tech<br>Environmental monitoring"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
