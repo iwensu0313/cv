@@ -1,5 +1,7 @@
 +++
+showonlyimage = true
 draft = false
+image = "img/portfolio/adb.png"
 date = "2022-01-28"
 title = "Healthy Oceans Tech and Finance Forum"
 weight = 0
