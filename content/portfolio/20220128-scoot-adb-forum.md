@@ -7,6 +7,8 @@ weight = 0
 
 **Scene setter, “Financing Sustainable Aquaculture,” Asian Development Bank Healthy Oceans Tech and Finance Forum 2022, January 2022.**
 
+<!--more-->
+
 Set the scene for a spotlight panel discussion between investors, aquaculture companies and feed companies.
 
 ***
