@@ -5,7 +5,7 @@ title = "Seafood Source Webinar"
 weight = 0
 +++
 
-Panelist, “Forecasting Ocean Weather | The solution to protect, insure, & invest in salmon aquaculture,” SeafoodSource Webinar, January 2022.
+Panelist, “Forecasting Ocean Weather | The solution to protect, insure, & invest in salmon aquaculture,” Seafood Source Webinar, January 2022.
 
 <!--more-->
 

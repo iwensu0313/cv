@@ -1,7 +1,7 @@
 +++
 draft = false
 date = "2017-07-13"
-title = "VSE Mussel Farming Site Selection Workshop"
+title = "Ventura Mussel Farming Site Selection Workshop"
 weight = 0
 +++
 
