@@ -7,6 +7,8 @@ weight = 0
 
 **Panelist, “Forecasting Ocean Weather | The solution to protect, insure, & invest in salmon aquaculture,” SeafoodSource Webinar, January 2022.**
 
+<!--more-->
+
 As Senior Data Scientist at Scoot Science, talked about our proposed framework for tracking carbon footprint for the global salmon industry. The panel included myself, our CEO, CIO and Business Development Specialist.
 
 ***

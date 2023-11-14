@@ -10,9 +10,9 @@ weight = 0
 
 Investigated the [feasibility of seaweed aquaculture](https://sbmussels.weebly.com) in southern California for [Santa Barbara Mariculture](http://www.sbmariculture.com/) and the [Sustainable Aquaculture Research Center](http://sarc.bren.ucsb.edu/).
 
-**Presenter, “Testing the Economic Feasibility of Seaweed Aquaculture in Southern California,” Master Project Defenses, Bren School, Santa Barbara, March 2018.**
+<!--more-->
 
-Presented project scope and results to an academic panel. Presentations were open to the public.
+Presented master's group project scope and results to the public on March 2018, Santa Barbara.
 
 ***
 

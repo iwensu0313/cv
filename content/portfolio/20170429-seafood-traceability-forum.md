@@ -7,6 +7,8 @@ weight = 0
 
 **Invited workshop participant, LMU-UCLA Seafood Traceability Forum, Loyola Marymount University, Los Angeles, April 2017.**
 
+<!--more-->
+
 Participated in forum breakout sessions to discuss various seafood traceability issues.
 
 ***

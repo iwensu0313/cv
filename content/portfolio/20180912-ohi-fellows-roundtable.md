@@ -8,6 +8,8 @@ weight = 0
 
 **Presenter, "Ocean Health Index Global Fellows Program Seminar", NCEAS Roundtable Series, Santa Barbara, September 2018.**
 
+<!--more-->
+
 Presented on the Ocean Health Index (OHI) Global Assessment framework, the open data science tools used in evaluating ocean health, the value of the fellowship program, and the data exploration dashboard I created for the OHI Mariculture goal.
 
 
