@@ -5,7 +5,7 @@ title = "Healthy Oceans Tech and Finance Forum"
 weight = 0
 +++
 
-**Scene setter, “Financing Sustainable Aquaculture,” Asian Development Bank Healthy Oceans Tech and Finance Forum 2022, January 2022.**
+Scene setter, “Financing Sustainable Aquaculture,” Asian Development Bank Healthy Oceans Tech and Finance Forum 2022, January 2022.
 
 <!--more-->
 

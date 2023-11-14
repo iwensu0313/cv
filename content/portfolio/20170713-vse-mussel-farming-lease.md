@@ -6,7 +6,7 @@ weight = 0
 +++
 
 
-**Invited workshop participant, “Gathering Community Input on the Location of VSE Mussel Farming Lease Sites”, Ventura Shellfish Enterprise Site Selection Workshop, Ventura Harbor, July 2017.**
+Invited workshop participant, “Gathering Community Input on the Location of VSE Mussel Farming Lease Sites”, Ventura Shellfish Enterprise Site Selection Workshop, Ventura Harbor, July 2017.
 
 <!--more-->
 

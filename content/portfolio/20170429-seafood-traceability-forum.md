@@ -5,7 +5,7 @@ title = "Seafood Traceability Forum"
 weight = 0
 +++
 
-**Invited workshop participant, LMU-UCLA Seafood Traceability Forum, Loyola Marymount University, Los Angeles, April 2017.**
+Invited workshop participant, LMU-UCLA Seafood Traceability Forum, Loyola Marymount University, Los Angeles, April 2017.
 
 <!--more-->
 

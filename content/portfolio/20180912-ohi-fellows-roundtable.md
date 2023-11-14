@@ -6,7 +6,7 @@ weight = 0
 +++
 
 
-**Presenter, "Ocean Health Index Global Fellows Program Seminar", NCEAS Roundtable Series, Santa Barbara, September 2018.**
+Presenter, "Ocean Health Index Global Fellows Program Seminar", NCEAS Roundtable Series, Santa Barbara, September 2018.
 
 <!--more-->
 

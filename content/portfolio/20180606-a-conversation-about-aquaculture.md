@@ -8,7 +8,7 @@ weight = 0
 +++
 
 
-**Organizer, “A Conversation about Aquaculture”, student-led presentation series featuring local academic and industry experts in aquaculture, Bren School, Santa Barbara, June 2018.**
+Organizer, “A Conversation about Aquaculture”, student-led presentation series featuring local academic and industry experts in aquaculture, Bren School, Santa Barbara, June 2018.
 
 <!--more-->
 
